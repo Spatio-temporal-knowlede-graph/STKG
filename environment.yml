@@ -1,0 +1,9 @@
+# conda 개발 환경 통일 및 버전 고정
+name: STKG
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - pyyaml
+  - pip
